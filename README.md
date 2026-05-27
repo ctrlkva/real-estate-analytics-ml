@@ -36,11 +36,11 @@
 
 # ├── data/
 
-# │   └── 1.4\_houses.csv           # Source dataset
+# │   └── 1.4_houses.csv           # Source dataset
 
 # ├── src/
 
-# │   └── real\_estate\_analysis.ipynb # Main Jupyter Notebook with code and steps
+# │   └── real_estate_analysis.ipynb # Main Jupyter Notebook with code and steps
 
 # ├── README.md                    # Project documentation
 
