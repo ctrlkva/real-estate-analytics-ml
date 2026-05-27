@@ -94,7 +94,7 @@
 
 # &#x20;  ```bash
 
-# &#x20;  git clone https://github.com
+# &#x20;  git clone https://github.com/ctrlkva/real-estate-analytics-ml
 
 # &#x20;  cd real-estate-analytics-ml
 
