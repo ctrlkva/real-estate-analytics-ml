@@ -38,14 +38,6 @@
 
 # │   └── 1.4\_houses.csv           # Source dataset
 
-# ├── output/
-
-# │   ├── tree\_visual1.png         # Saved Decision Tree visualization
-
-# │   ├── clusters\_visual.png      # Saved KMeans clusters plot
-
-# │   └── regression\_3d\_visual.png # Saved 3D Regression plane plot
-
 # ├── src/
 
 # │   └── real\_estate\_analysis.ipynb # Main Jupyter Notebook with code and steps
